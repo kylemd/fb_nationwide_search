@@ -9,3 +9,5 @@ exact {true, false}
 daysSinceListed { number }
 minPrice { number }
 maxPrice { number }
+radius { number } // THIS IS FOR COUNTRIES THAT USE MILES
+radiusKM { number } // THIS IS FOR COUNTRIES THAT USE KMS
